@@ -45,3 +45,8 @@ const sortDesenArr = (inputArr) => {
 
 sortDesenArr(unSortArr);
 console.log(unSortArr);
+
+/////Bubble sort: bubble sort is a sorting algorithm that sorts ascending and descending orders easily through swapping and comparing values.
+//first loop - here condition in loop (Total Number length - 1) which is how many iterations are done in the bubble sort process
+// second Loop - here condition in this loop is (Total Number length - 1 - i) which is inside one iteration how much swapping deal happening.
+// lastly set a swapping condition .
